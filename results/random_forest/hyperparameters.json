@@ -1,0 +1,7 @@
+{
+    "best_parameters": {
+        "classifier__n_estimators": 200,
+        "classifier__max_depth": 7
+    },
+    "best_cv_f2": 0.5410045442831535
+}

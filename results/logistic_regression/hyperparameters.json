@@ -1,0 +1,7 @@
+{
+    "best_parameters": {
+        "classifier__penalty": "l2",
+        "classifier__C": 0.01
+    },
+    "best_cv_f2": 0.025814206325760515
+}
