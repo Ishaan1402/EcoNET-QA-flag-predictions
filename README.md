@@ -1,5 +1,8 @@
 # EcoNET Quality Assurance: Predicting Sensor Errors (CSC 522 Final Project)
 
+## Dataset Setup
+You can obtain the dataset under the [EcoNET link](https://moodle-courses2527.wolfware.ncsu.edu/mod/resource/view.php?id=696299)
+
 This repository contains the complete implementation pipeline to detect true hardware failures within the deeply imbalanced EcoNET climate sensor dataset (3.6% anomaly rate). 
 
 ## Methodology Overview (Rubric Requirements)
